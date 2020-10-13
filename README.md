@@ -1,2 +1,2 @@
-# PS1s
+# POWERSHELL
 Repositório de scripts em PowerShell
