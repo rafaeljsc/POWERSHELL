@@ -1,0 +1,19 @@
+!Select the false statement:
+
+%When using an Azure ExpressRoute connection, inbound data traffic from an on-premises netork to Azure is always free
+%Outbound data traffic from Azure to an on-premises network is always free
+%Data traffic between Azure services within the same Azure region is laways free
+%All statements are right
+%All statements are wrong
+
+_Outbound data traffic from Azure to an on-premises network is always free
+
+~Explanation:
+~
+~With Azure ExpressRoute, all inbound data transfer is free of charge.
+~
+~Inbound data traffic is free but outbound data traffic is not.
+~
+~Reference: 
+~https://azure.microsoft.com/en-us/pricing/details/expressroute/ 
+~https://azure.microsoft.com/en-us/pricing/details/bandwidth/

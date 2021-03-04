@@ -1,0 +1,21 @@
+!Select the true statement:
+
+%Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located
+%When you use a general-purpose v2 Azure Storage Account, you are only charged for the amount of data that is stored. All read and write operations are free
+%Transferring data between Azure Storage accounts in different Azure region is free
+%All statements are wrong
+%All statements are right
+
+_All statements are wrong
+
+~Explanation:
+~
+~The price of Azure storage varies by region. If you use the Azure storage pricing page, you can select different regions and see how the price changes per region.
+~
+~You are charged for read and write operations in general-purpose v2 storage accounts.
+~
+~You would be charge for the read operations of the source storage account and write operations in the destination storage account.
+~
+~Reference: 
+~https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview 
+~https://azure.microsoft.com/en-gb/pricing/details/storage/blobs/

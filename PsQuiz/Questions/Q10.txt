@@ -1,0 +1,14 @@
+!Select the true statement:
+
+%From the Azure portal, you can distinguish between services that are generally available and services that are in public preview
+%After an Azure services becomes generally availabe, the service is no longer updated with new features
+%When you create Azure resources for a service in public preview, you must recreate the resources once the services becomes generally available
+%All statements are right
+%All statements are wrong
+
+_From the Azure portal, you can distinguish between services that are generally available and services that are in public preview
+
+~Explanation:
+~
+~Reference: 
+~https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/

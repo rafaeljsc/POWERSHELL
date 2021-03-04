@@ -1,0 +1,19 @@
+!You have several virtual machines in an Azure subscritption.
+!
+!You create a new subscription
+
+%The virtual machines cannot be moved to the new subscritpion
+%The virtual machines can be moved to the new subscritpion
+%The virtual machines can be moved to the new subscritpion only if they are all in the same resource group
+%The virtual machines can be moved to the new subscritpion only if they run Windows Server 2016
+
+_The virtual machines can be moved to the new subscritpion
+
+~Explanation:
+~
+~You can move a VM and its associated resources to a different subscription by using the Azure portal.
+~
+~Moving between subscriptions can be handy if you originally created a VM in a personal subscription and now want to move it to your company's subscription to continue your work. You do not need to start the VM in order to move it and it should continue to run during the move.
+~
+~Reference: 
+~https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm

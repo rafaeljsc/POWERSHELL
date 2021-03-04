@@ -1,0 +1,20 @@
+!Select the true statement:
+
+%Adding resource groups in an Azure subscription generates additional costs
+%Copying 10 GB of data TO Azure FROM an on-premises network over VPN generates additional Azure data transfer costs
+%Copying 10 GB of data FROM Azure TO an on-premises network over VPN generates additional Azure data transfer costs
+%All statements are wrong
+%All statements are right
+
+_Copying 10 GB of data FROM Azure TO an on-premises network over VPN generates additional Azure data transfer costs
+
+~Explanation:
+~
+~Resource groups are logical containers for Azure resources. You do not pay for resource groups.
+~
+~Data ingress over a VPN is data "coming in" to Azure over the VPN. You are not charged data transfer costs for data ingress.
+~
+~Data egress over a VPN is data "going out" of Azure over the VPN. You are charged for data egress.
+~
+~Reference: 
+~https://azure.microsoft.com/en-us/pricing/details/bandwidth/

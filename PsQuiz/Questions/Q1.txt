@@ -1,0 +1,20 @@
+!Select the true statement:
+
+%Each Azure subscription can contain multiple account administrators
+%Each Azure subscription can be managed by using a Microsoft account only
+%An Azure resource group contains multiple Azure subscriptions
+%All statements are wrong
+%All statements are right
+
+_Each Azure subscription can contain multiple account administrators
+
+~Explanation:
+~
+~You can assign additional account administrators in the Azure Portal.
+~
+~You need an Azure Active Directory account to manage a subscription, not a Microsoft account. An account is created in the Azure Active Directory when you create the subscription. Further accounts can be created in the Azure Active Directory to manage the subscription.
+~
+~Resource groups are logical containers for Azure resources. However, resource groups do not contain subscriptions. Subscriptions contain resource groups.
+~
+~Reference: 
+~https://docs.microsoft.com/en-us/office365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings

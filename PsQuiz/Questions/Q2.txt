@@ -1,0 +1,20 @@
+!Select the true statement:
+
+%If your company uses an Azure free account, you will only be able to use a subset of Azure services
+%All Azure free accounts expires after a specific period
+%You can create up to 10 Azure free accounts by using the same Microsoft account
+%All statements are wrong
+%All statements are right
+
+_All Azure free accounts expires after a specific period
+
+~Explanation:
+~
+~Azure Free Account gives you 12 months access to the most popular free services. It also gives you a credit (150 GBP or 200 USD) to use on any Azure service for up to 30 days.
+~
+~All free accounts expire after 12 months.
+~
+~You can only create one free Azure account per Microsoft account.
+~
+~Reference: 
+~https://azure.microsoft.com/en-gb/free/

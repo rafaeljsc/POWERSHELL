@@ -1,0 +1,17 @@
+!Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office.
+!
+!Which Azure Resource Manager feature should you use before you generate the reports?
+
+%tags
+%templates
+%locks
+%policies
+
+_tags
+
+~Explanation:
+~
+~You can use resource tags to "label" Azure resources. Tags are metadata elements attached to resources. Tags consist of pairs of key/value strings. In this question, we would tag each resource with a tag to identify each office. For example: Location = Office1. When all Azure resources are tagged, you can generate reports to list all resources based on the value of the tag. For example: All resources used by Office1.
+~
+~Reference: 
+~https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/
